@@ -122,7 +122,7 @@ public class Gui extends JFrame implements KeyListener,ActionListener{
             MoveButton.addNum(this);
         }
         if(o == menu2_jm) {
-            System.err.println("再次按钮");
+            System.err.println("再次按钮123");
             this.initButton();
         }
     }
